@@ -123,6 +123,9 @@ defaults:
       comments: false
       author: phlow     # Default author for posts
 
+plugins:
+  - jekyll-gist`
+
 
 
 #       _   __            _             __  _
